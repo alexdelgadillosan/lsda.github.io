@@ -1,6 +1,6 @@
 
 /*===========================
-     01.COMMON css 
+     COMMON css 
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,700|Lato:300,400,700&display=swap");
 body {
@@ -462,7 +462,7 @@ p {
     transform: rotate(-130deg); } }
 
 /*===========================
-      02.HEADER css 
+      HEADER css 
 ===========================*/
 /*===== NAVBAR =====*/
 .navbar-area {
@@ -796,7 +796,7 @@ p {
       padding-top: 30px; } }
 
 /*===========================
-      03.BRAND css 
+      BRAND css 
 ===========================*/
 @media (max-width: 767px) {
   .brand-logo {
@@ -829,7 +829,7 @@ p {
     opacity: 1; }
 
 /*===========================
-      04.SERVICES css 
+      SERVICES css 
 ===========================*/
 .single-services {
   background-color: #fff;
@@ -922,7 +922,7 @@ p {
       transform: rotate(25deg); }
 
 /*===========================
-      05.ABOUT css 
+      ABOUT css 
 ===========================*/
 .about-area {
   position: relative;
@@ -971,7 +971,7 @@ p {
       background-position: right center; }
 
 /*===========================
-    06.VIDEO COUNTER css 
+    VIDEO COUNTER css 
 ===========================*/
 .video-content {
   position: relative;
@@ -1102,7 +1102,7 @@ p {
         .counter-wrapper .single-counter .text {
           font-size: 16px; } }
 /*===========================
-       10.SUBSCRIBE  css 
+       SUBSCRIBE  css 
 ===========================*/
 .subscribe-area {
   padding: 40px 50px 90px;
@@ -1182,7 +1182,7 @@ p {
       background-position: right center; }
 
 /*===========================
-       11.FOOTER  css 
+       FOOTER  css 
 ===========================*/
 .footer-area {
   background-position: top center;
@@ -1317,3 +1317,7 @@ p {
   display: none; }
   .back-to-top:hover {
     color: black; }
+
+  .credits{
+    font-size: 10px;
+  }
